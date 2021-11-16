@@ -9,3 +9,7 @@
 - [ ] ROC, AUC, Precision Recall
 - [ ] Multi class log_loss
 <!-- - [x] Venus -->
+
+##### 3. Data manipulation
+- [ ] Why?
+
